@@ -4,3 +4,10 @@
 8:00 De camino a la oficina en tren
 9:30 Descanso
 10:00 Daily
+14:00 Comida en el bar
+14:45 De vuelta al trabajo
+18:00 Fin de la jornada laboral
+19:00 Entrenar
+21:30 Cena
+22:30 Ver Tiktok
+24:00 A dormir
